@@ -1,3 +1,4 @@
 data/
+wandb/
 .DS_Store
 .ipynb_checkpoints/
